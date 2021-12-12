@@ -1,6 +1,6 @@
-if not exist "build" mkdir build
+if not exist "dev" mkdir dev
 
-pushd build
+pushd dev
 
 cls 
 
